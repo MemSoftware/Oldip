@@ -1,0 +1,8 @@
+Origin: Old iPhone Repo
+Label: Old iPhone Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Old iPhone Repo es un repositorio de Cydia encargado de mantener todos los Debs necesarios para utilizar con iPhone y iPad antiguos (De iOS 1 a 7).
